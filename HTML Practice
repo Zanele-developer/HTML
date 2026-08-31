@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>My First Web Page</title>
+</head>
+
+<body>
+
+    <h1>Welcome to My Website</h1>
+
+    <p>Hello! My name is Zanele.</p>
+
+    <p>I am learning HTML and this is one of my first web pages.</p>
+
+    <hr>
+
+    <h2>About Me</h2>
+
+    <p>I enjoy coding and creating websites.</p>
+
+    <p>One day I want to become a professional web developer.</p>
+
+    <hr>
+
+    <h2>My Hobbies</h2>
+
+    <ul>
+        <li>Coding</li>
+        <li>Playing Rugby</li>
+        <li>Playing Minecraft</li>
+        <li>Learning New Things</li>
+    </ul>
+
+    <hr>
+
+    <h2>My Goals</h2>
+
+    <ol>
+        <li>Learn HTML</li>
+        <li>Learn CSS</li>
+        <li>Learn JavaScript</li>
+        <li>Build Awesome Websites</li>
+    </ol>
+
+    <hr>
+
+    <h2>My Favorite Website</h2>
+
+    <p>
+        Visit
+        <a href="https://www.google.com">Google</a>
+    </p>
+
+    <hr>
+
+    <h2>Contact Me</h2>
+
+    <p>Email: example@email.com</p>
+
+    <p>Thank you for visiting my page!</p>
+
+</body>
+</html>
